@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Mute Incognito Tabs",
+  "version": "1.0",
+  "description": "Auto muted in incognito tabs",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "toggle-mute": {
+      "suggested_key": {
+        "default": "Ctrl+M"
+      },
+      "description": "Toggle mute"
+    }
+  },
+  "incognito": "split"
+}
