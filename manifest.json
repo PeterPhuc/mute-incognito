@@ -15,5 +15,18 @@
       "description": "Toggle mute"
     }
   },
-  "incognito": "split"
+  "incognito": "split",
+"icons": {
+    "24": "icon/icon24.png",
+    "48": "icon/icon48.png",
+    "96": "icon/icon96.png"
+  },
+  "action": {
+    "default_icon": {
+      "24": "icon/icon24.png",
+      "48": "icon/icon48.png",
+      "96": "icon/icon96.png"
+    },
+    "default_title": "Mute Incognito Tabs"
+  }
 }

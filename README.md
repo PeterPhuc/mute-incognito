@@ -5,7 +5,7 @@ Automatically mute incognito tabs in Chrome.
 ## 🚀 Features
 
 - **Automatically mutes** incognito tabs when opened.
-- **Press **`Ctrl + M`** to toggle **mute/unmute** for the active tab.
+- Press **`Ctrl + M`** to toggle **mute/unmute** for the active tab.
 - **Only affects incognito tabs**, leaving normal tabs unchanged.
 
 ## 📦 Installation
